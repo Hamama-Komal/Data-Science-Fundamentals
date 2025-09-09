@@ -1,0 +1,6 @@
+ => Matplotlib LifeCycle:
+
+1) Create Data
+2) Create Plot
+3) Plot Data
+4) Customize Plot
